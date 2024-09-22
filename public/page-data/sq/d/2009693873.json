@@ -5,10 +5,22 @@
         {
           "node": {
             "frontmatter": {
+              "title": "Data Scientist Intern",
+              "company": "IBM",
+              "location": "Markham, ON",
+              "range": "Sep 2024 - present",
+              "url": "https://www.ibm.com/ca-en"
+            },
+            "html": "<ul>\n<li>Developed and deployed data-driven applications by building end-to-end data science pipelines and integrating machine learning models</li>\n<li>Created engaging and instructional content to democratize access to data science and AI, educating global audiences</li>\n<li>Contributed to the growth of the Skills Network by producing high-quality, impactful educational materials that met increasing global demand</li>\n</ul>"
+          }
+        },
+        {
+          "node": {
+            "frontmatter": {
               "title": "NSERC-USRA Research Assistant",
               "company": "Atlas Analytics Lab",
               "location": "Montreal, QC",
-              "range": "May 2024 - Present",
+              "range": "May 2024 - Aug 2024",
               "url": "https://atlasanalyticslab.ai/"
             },
             "html": "<ul>\n<li>Led a Computational Pathology project using deep learning to improve Computer Aided Diagnosis (CAD) systems with Whole Slide Images (WSIs)</li>\n<li>Used Python and libraries like NumPy, Matplotlib, PyTorch, TensorFlow, Keras, scikit-learn, and bash scripts</li>\n<li>Achieved a 15% increase in model accuracy for new WSI data distributions through advanced Parameter Efficient Fine Tuning (PEFT) techniques</li>\n<li>Enhanced cancer detection specificity by 20%, reducing false positives on new target datasets</li>\n</ul>"
