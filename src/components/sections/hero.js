@@ -66,26 +66,22 @@ const Hero = () => {
     <>
       <p>
         I’m a 4th year computer science student, passionate about using AI and machine learning for
-        social good. Currently, I’m doing a research internship in computational pathology at{' '}
-        <a href="https://atlasanalyticslab.ai/" target="_blank" rel="noreferrer">
-          Atlas Analytics Lab
+        social good. Currently, I’m a Data Scientist Intern at{' '}
+        <a href="https://www.ibm.com/ca-en" target="_blank" rel="noreferrer">
+          IBM
         </a>
         .
       </p>
     </>
   );
-  // const five = (
-  //   <a
-  //     className="email-link"
-  //     href="https://www.newline.co/courses/build-a-spotify-connected-app"
-  //     target="_blank"
-  //     rel="noreferrer">
-  //     Check out my course!
-  //   </a>
-  // );
+  const five = (
+    <a className="email-link" href="https://medium.com/@haileyq" target="_blank" rel="noreferrer">
+      Check out my blog!
+    </a>
+  );
 
-  // const items = [one, two, three, four, five];
-  const items = [one, two, three, four];
+  const items = [one, two, three, four, five];
+  // const items = [one, two, three, four];
 
   return (
     <StyledHeroSection>

@@ -3,12 +3,12 @@
     "app": {
       "name": "app",
       "assets": [
-        { "name": "webpack-runtime-ab3216d70c0796916bae.js", "size": 4304 },
-        { "name": "framework-306428b3f19363da004c.js", "size": 261173 },
-        { "name": "app-fe135aab5c182df816b1.js", "size": 110043 }
+        { "name": "webpack-runtime-ab3216d70c0796916bae.js", "size": 7427 },
+        { "name": "framework-306428b3f19363da004c.js", "size": 253517 },
+        { "name": "app-fe135aab5c182df816b1.js", "size": 211600 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 375520,
+      "assetsSize": 472544,
       "filteredAuxiliaryAssets": 3,
       "auxiliaryAssetsSize": 796489
     },
@@ -17,11 +17,11 @@
       "assets": [
         {
           "name": "component---cache-caches-gatsby-plugin-offline-app-shell-js-6f061b09cc63f0400406.js",
-          "size": 792
+          "size": 765
         }
       ],
       "filteredAssets": 0,
-      "assetsSize": 792,
+      "assetsSize": 765,
       "filteredAuxiliaryAssets": 1,
       "auxiliaryAssetsSize": 1657
     },
@@ -30,12 +30,12 @@
       "assets": [
         {
           "name": "546641dfde76ed00139ea2c3eae09499c5f2164a-bda3ef051a7adb704a01.js",
-          "size": 126367
+          "size": 218524
         },
-        { "name": "component---src-pages-404-js-3c5e5a19c786b979532c.js", "size": 2427 }
+        { "name": "component---src-pages-404-js-3c5e5a19c786b979532c.js", "size": 2355 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 128794,
+      "assetsSize": 220879,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1174904
     },
@@ -44,12 +44,12 @@
       "assets": [
         {
           "name": "546641dfde76ed00139ea2c3eae09499c5f2164a-bda3ef051a7adb704a01.js",
-          "size": 126367
+          "size": 218524
         },
-        { "name": "component---src-pages-archive-js-d9e22fd27815ff24044d.js", "size": 7717 }
+        { "name": "component---src-pages-archive-js-d9e22fd27815ff24044d.js", "size": 7548 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 134084,
+      "assetsSize": 226072,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1181448
     },
@@ -58,12 +58,12 @@
       "assets": [
         {
           "name": "546641dfde76ed00139ea2c3eae09499c5f2164a-bda3ef051a7adb704a01.js",
-          "size": 126367
+          "size": 218524
         },
-        { "name": "component---src-pages-index-js-a5b6a143b006da1e9371.js", "size": 989 }
+        { "name": "component---src-pages-index-js-a5b6a143b006da1e9371.js", "size": 955 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 127356,
+      "assetsSize": 219479,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1172436
     },
@@ -72,12 +72,12 @@
       "assets": [
         {
           "name": "546641dfde76ed00139ea2c3eae09499c5f2164a-bda3ef051a7adb704a01.js",
-          "size": 126367
+          "size": 218524
         },
-        { "name": "component---src-pages-pensieve-index-js-0e01a32c3274133c8e48.js", "size": 16125 }
+        { "name": "component---src-pages-pensieve-index-js-0e01a32c3274133c8e48.js", "size": 15581 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 142492,
+      "assetsSize": 234105,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1208302
     },
@@ -86,12 +86,12 @@
       "assets": [
         {
           "name": "546641dfde76ed00139ea2c3eae09499c5f2164a-bda3ef051a7adb704a01.js",
-          "size": 126367
+          "size": 218524
         },
-        { "name": "component---src-pages-pensieve-tags-js-3ad1bdf5bfd23c8e02f6.js", "size": 11860 }
+        { "name": "component---src-pages-pensieve-tags-js-3ad1bdf5bfd23c8e02f6.js", "size": 11401 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 138227,
+      "assetsSize": 229925,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1203288
     },
@@ -100,12 +100,12 @@
       "assets": [
         {
           "name": "546641dfde76ed00139ea2c3eae09499c5f2164a-bda3ef051a7adb704a01.js",
-          "size": 126367
+          "size": 218524
         },
-        { "name": "component---src-templates-post-js-4d3f0ffe6afa1332948d.js", "size": 12899 }
+        { "name": "component---src-templates-post-js-4d3f0ffe6afa1332948d.js", "size": 12416 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 139266,
+      "assetsSize": 230940,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1204377
     },
@@ -114,12 +114,12 @@
       "assets": [
         {
           "name": "546641dfde76ed00139ea2c3eae09499c5f2164a-bda3ef051a7adb704a01.js",
-          "size": 126367
+          "size": 218524
         },
-        { "name": "component---src-templates-tag-js-244d90f7324847c443e1.js", "size": 13223 }
+        { "name": "component---src-templates-tag-js-244d90f7324847c443e1.js", "size": 12726 }
       ],
       "filteredAssets": 0,
-      "assetsSize": 139590,
+      "assetsSize": 231250,
       "filteredAuxiliaryAssets": 22,
       "auxiliaryAssetsSize": 1205504
     }

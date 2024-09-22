@@ -3,7 +3,7 @@ date: '2024-05-01'
 title: 'NSERC-USRA Research Assistant'
 company: 'Atlas Analytics Lab'
 location: 'Montreal, QC'
-range: 'May 2024 - Present'
+range: 'May 2024 - Aug 2024'
 url: 'https://atlasanalyticslab.ai/'
 ---
 

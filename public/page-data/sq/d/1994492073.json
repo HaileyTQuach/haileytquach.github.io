@@ -5,7 +5,7 @@
         "defaultTitle": "Hailey Quach",
         "defaultDescription": "Hailey Quach is a 4th year computer science student, passionate about using AI and machine learning for social good.",
         "siteUrl": "https://haileyq.com",
-        "defaultImage": "/og.png",
+        "defaultImage": "./static/og.png",
         "twitterUsername": "@bchiang7"
       }
     }

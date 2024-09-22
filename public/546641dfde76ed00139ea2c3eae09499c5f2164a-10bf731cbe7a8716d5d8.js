@@ -4020,12 +4020,12 @@
               r.createElement(
                 'p',
                 null,
-                'I’m a 4th year computer science student, passionate about using AI and machine learning for social good. Currently, I’m doing a research internship in computational pathology at',
+                'I’m a 4th year computer science student, passionate about using AI and machine learning for social good. Currently, I’m a Data Scientist Intern at',
                 ' ',
                 r.createElement(
                   'a',
-                  { href: 'https://atlasanalyticslab.ai/', target: '_blank', rel: 'noreferrer' },
-                  'Atlas Analytics Lab',
+                  { href: 'https://www.ibm.com/ca-en', target: '_blank', rel: 'noreferrer' },
+                  'IBM',
                 ),
                 '.',
               ),
