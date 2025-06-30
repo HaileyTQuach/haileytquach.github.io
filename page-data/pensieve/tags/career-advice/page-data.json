@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/pensieve/tags/career-advice/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"What's Most Important to You?","description":"A reflection on ambition, survival, and staying human","date":"2025-06-30T00:00:00.000Z","slug":"/pensieve/whats-most-important","tags":["Personal","CareerAdvice","LifePhilosophy","Reflection"]}}},{"node":{"frontmatter":{"title":"The Internship That Made Me Brave","description":"What eight months at IBM taught me about self-worth, ambition, and becoming who I am","date":"2025-04-25T00:00:00.000Z","slug":"/pensieve/life-changing-internship","tags":["Personal","CareerAdvice","ADHD"]}}}]}},"pageContext":{"tag":"CareerAdvice"}},
+    "staticQueryHashes": ["1994492073","2009693873","2031412112","3138834017","3825832676"]}
